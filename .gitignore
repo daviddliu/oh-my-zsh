@@ -1,4 +1,5 @@
 locals.zsh
+themes/robbyrussell.zsh-theme
 log/.zsh_history
 projects.zsh
 custom
